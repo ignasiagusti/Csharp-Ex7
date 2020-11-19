@@ -1,0 +1,13 @@
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\bin\Debug\netcoreapp3.1\CsharpEx7.exe
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\bin\Debug\netcoreapp3.1\CsharpEx7.deps.json
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\bin\Debug\netcoreapp3.1\CsharpEx7.runtimeconfig.json
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\bin\Debug\netcoreapp3.1\CsharpEx7.runtimeconfig.dev.json
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\bin\Debug\netcoreapp3.1\CsharpEx7.dll
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\bin\Debug\netcoreapp3.1\CsharpEx7.pdb
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\obj\Debug\netcoreapp3.1\CsharpEx7.csprojAssemblyReference.cache
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\obj\Debug\netcoreapp3.1\CsharpEx7.AssemblyInfoInputs.cache
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\obj\Debug\netcoreapp3.1\CsharpEx7.AssemblyInfo.cs
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\obj\Debug\netcoreapp3.1\CsharpEx7.csproj.CoreCompileInputs.cache
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\obj\Debug\netcoreapp3.1\CsharpEx7.dll
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\obj\Debug\netcoreapp3.1\CsharpEx7.pdb
+C:\Users\Ignasi_ACER\source\repos\CsharpEx7\obj\Debug\netcoreapp3.1\CsharpEx7.genruntimeconfig.cache
